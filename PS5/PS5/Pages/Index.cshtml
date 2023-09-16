@@ -1,0 +1,29 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Strona startowa";
+}
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="utf-8" />
+    <title>Strona główna</title>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+</head>
+<body style="background-color: antiquewhite; color: black">
+    <center>
+
+        <h4 class="display-4"> Witaj w nowym sklepie osiedlowym!</h4>
+        <h3 class="display-5"> Hurtownia</h3>
+        <br />
+        <form method="post">
+            <input type="submit" value="Przejrzyj magazyn" />
+        </form>
+    </center>
+</body>
+</html>
+

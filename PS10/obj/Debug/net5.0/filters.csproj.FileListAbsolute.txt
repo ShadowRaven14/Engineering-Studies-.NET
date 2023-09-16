@@ -1,0 +1,162 @@
+C:\Users\pemix\Documents\studia\programowanie .NET\PS10\filters\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\pemix\Documents\studia\programowanie .NET\PS10\filters\bin\Debug\net5.0\appsettings.json
+C:\Users\pemix\Documents\studia\programowanie .NET\PS10\filters\bin\Debug\net5.0\filters.exe
+C:\Users\pemix\Documents\studia\programowanie .NET\PS10\filters\bin\Debug\net5.0\filters.deps.json
+C:\Users\pemix\Documents\studia\programowanie .NET\PS10\filters\bin\Debug\net5.0\filters.runtimeconfig.json
+C:\Users\pemix\Documents\studia\programowanie .NET\PS10\filters\bin\Debug\net5.0\filters.runtimeconfig.dev.json
+C:\Users\pemix\Documents\studia\programowanie .NET\PS10\filters\bin\Debug\net5.0\filters.dll
+C:\Users\pemix\Documents\studia\programowanie .NET\PS10\filters\bin\Debug\net5.0\ref\filters.dll
+C:\Users\pemix\Documents\studia\programowanie .NET\PS10\filters\bin\Debug\net5.0\filters.pdb
+C:\Users\pemix\Documents\studia\programowanie .NET\PS10\filters\bin\Debug\net5.0\filters.Views.dll
+C:\Users\pemix\Documents\studia\programowanie .NET\PS10\filters\bin\Debug\net5.0\filters.Views.pdb
+C:\Users\pemix\Documents\studia\programowanie .NET\PS10\filters\obj\Debug\net5.0\filters.csprojAssemblyReference.cache
+C:\Users\pemix\Documents\studia\programowanie .NET\PS10\filters\obj\Debug\net5.0\filters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pemix\Documents\studia\programowanie .NET\PS10\filters\obj\Debug\net5.0\filters.AssemblyInfoInputs.cache
+C:\Users\pemix\Documents\studia\programowanie .NET\PS10\filters\obj\Debug\net5.0\filters.AssemblyInfo.cs
+C:\Users\pemix\Documents\studia\programowanie .NET\PS10\filters\obj\Debug\net5.0\filters.csproj.CoreCompileInputs.cache
+C:\Users\pemix\Documents\studia\programowanie .NET\PS10\filters\obj\Debug\net5.0\filters.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pemix\Documents\studia\programowanie .NET\PS10\filters\obj\Debug\net5.0\filters.RazorAssemblyInfo.cache
+C:\Users\pemix\Documents\studia\programowanie .NET\PS10\filters\obj\Debug\net5.0\filters.RazorAssemblyInfo.cs
+C:\Users\pemix\Documents\studia\programowanie .NET\PS10\filters\obj\Debug\net5.0\staticwebassets\filters.StaticWebAssets.Manifest.cache
+C:\Users\pemix\Documents\studia\programowanie .NET\PS10\filters\obj\Debug\net5.0\staticwebassets\filters.StaticWebAssets.xml
+C:\Users\pemix\Documents\studia\programowanie .NET\PS10\filters\obj\Debug\net5.0\scopedcss\bundle\filters.styles.css
+C:\Users\pemix\Documents\studia\programowanie .NET\PS10\filters\obj\Debug\net5.0\filters.TagHelpers.input.cache
+C:\Users\pemix\Documents\studia\programowanie .NET\PS10\filters\obj\Debug\net5.0\filters.TagHelpers.output.cache
+C:\Users\pemix\Documents\studia\programowanie .NET\PS10\filters\obj\Debug\net5.0\filters.RazorCoreGenerate.cache
+C:\Users\pemix\Documents\studia\programowanie .NET\PS10\filters\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\pemix\Documents\studia\programowanie .NET\PS10\filters\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\pemix\Documents\studia\programowanie .NET\PS10\filters\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\pemix\Documents\studia\programowanie .NET\PS10\filters\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\pemix\Documents\studia\programowanie .NET\PS10\filters\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\pemix\Documents\studia\programowanie .NET\PS10\filters\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\pemix\Documents\studia\programowanie .NET\PS10\filters\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\pemix\Documents\studia\programowanie .NET\PS10\filters\obj\Debug\net5.0\filters.RazorTargetAssemblyInfo.cache
+C:\Users\pemix\Documents\studia\programowanie .NET\PS10\filters\obj\Debug\net5.0\filters.RazorTargetAssemblyInfo.cs
+C:\Users\pemix\Documents\studia\programowanie .NET\PS10\filters\obj\Debug\net5.0\filters.Views.pdb
+C:\Users\pemix\Documents\studia\programowanie .NET\PS10\filters\obj\Debug\net5.0\filters.dll
+C:\Users\pemix\Documents\studia\programowanie .NET\PS10\filters\obj\Debug\net5.0\ref\filters.dll
+C:\Users\pemix\Documents\studia\programowanie .NET\PS10\filters\obj\Debug\net5.0\filters.pdb
+C:\Users\pemix\Documents\studia\programowanie .NET\PS10\filters\obj\Debug\net5.0\filters.genruntimeconfig.cache
+C:\Users\pemix\Documents\studia\programowanie .NET\PS10\filters\obj\Debug\net5.0\filters.csproj.CopyComplete
+C:\Users\Admin\Desktop\PS10\filters\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Admin\Desktop\PS10\filters\bin\Debug\net5.0\appsettings.json
+C:\Users\Admin\Desktop\PS10\filters\bin\Debug\net5.0\filters.exe
+C:\Users\Admin\Desktop\PS10\filters\bin\Debug\net5.0\filters.deps.json
+C:\Users\Admin\Desktop\PS10\filters\bin\Debug\net5.0\filters.runtimeconfig.json
+C:\Users\Admin\Desktop\PS10\filters\bin\Debug\net5.0\filters.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\PS10\filters\bin\Debug\net5.0\filters.dll
+C:\Users\Admin\Desktop\PS10\filters\bin\Debug\net5.0\ref\filters.dll
+C:\Users\Admin\Desktop\PS10\filters\bin\Debug\net5.0\filters.pdb
+C:\Users\Admin\Desktop\PS10\filters\bin\Debug\net5.0\filters.Views.dll
+C:\Users\Admin\Desktop\PS10\filters\bin\Debug\net5.0\filters.Views.pdb
+C:\Users\Admin\Desktop\PS10\filters\obj\Debug\net5.0\filters.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\PS10\filters\obj\Debug\net5.0\filters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\PS10\filters\obj\Debug\net5.0\filters.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\PS10\filters\obj\Debug\net5.0\filters.AssemblyInfo.cs
+C:\Users\Admin\Desktop\PS10\filters\obj\Debug\net5.0\filters.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\PS10\filters\obj\Debug\net5.0\filters.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\PS10\filters\obj\Debug\net5.0\filters.RazorAssemblyInfo.cache
+C:\Users\Admin\Desktop\PS10\filters\obj\Debug\net5.0\filters.RazorAssemblyInfo.cs
+C:\Users\Admin\Desktop\PS10\filters\obj\Debug\net5.0\staticwebassets\filters.StaticWebAssets.Manifest.cache
+C:\Users\Admin\Desktop\PS10\filters\obj\Debug\net5.0\staticwebassets\filters.StaticWebAssets.xml
+C:\Users\Admin\Desktop\PS10\filters\obj\Debug\net5.0\scopedcss\bundle\filters.styles.css
+C:\Users\Admin\Desktop\PS10\filters\obj\Debug\net5.0\filters.TagHelpers.input.cache
+C:\Users\Admin\Desktop\PS10\filters\obj\Debug\net5.0\filters.TagHelpers.output.cache
+C:\Users\Admin\Desktop\PS10\filters\obj\Debug\net5.0\filters.RazorCoreGenerate.cache
+C:\Users\Admin\Desktop\PS10\filters\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Admin\Desktop\PS10\filters\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Admin\Desktop\PS10\filters\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Admin\Desktop\PS10\filters\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Admin\Desktop\PS10\filters\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Admin\Desktop\PS10\filters\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Admin\Desktop\PS10\filters\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Admin\Desktop\PS10\filters\obj\Debug\net5.0\filters.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\Desktop\PS10\filters\obj\Debug\net5.0\filters.RazorTargetAssemblyInfo.cs
+C:\Users\Admin\Desktop\PS10\filters\obj\Debug\net5.0\filters.Views.pdb
+C:\Users\Admin\Desktop\PS10\filters\obj\Debug\net5.0\filters.dll
+C:\Users\Admin\Desktop\PS10\filters\obj\Debug\net5.0\ref\filters.dll
+C:\Users\Admin\Desktop\PS10\filters\obj\Debug\net5.0\filters.pdb
+C:\Users\Admin\Desktop\PS10\filters\obj\Debug\net5.0\filters.genruntimeconfig.cache
+C:\Users\Admin\Desktop\PS10\filters\obj\Debug\net5.0\filters.csproj.CopyComplete
+C:\Users\Admin\source\repos\PS10\obj\Debug\net5.0\filters.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\PS10\obj\Debug\net5.0\filters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\PS10\obj\Debug\net5.0\filters.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\PS10\obj\Debug\net5.0\filters.AssemblyInfo.cs
+C:\Users\Admin\source\repos\PS10\obj\Debug\net5.0\filters.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\PS10\obj\Debug\net5.0\filters.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\source\repos\PS10\obj\Debug\net5.0\filters.RazorAssemblyInfo.cache
+C:\Users\Admin\source\repos\PS10\obj\Debug\net5.0\filters.RazorAssemblyInfo.cs
+C:\Users\Admin\source\repos\PS10\obj\Debug\net5.0\filters.dll
+C:\Users\Admin\source\repos\PS10\obj\Debug\net5.0\ref\filters.dll
+C:\Users\Admin\source\repos\PS10\obj\Debug\net5.0\filters.pdb
+C:\Users\Admin\source\repos\PS10\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Admin\source\repos\PS10\bin\Debug\net5.0\appsettings.json
+C:\Users\Admin\source\repos\PS10\bin\Debug\net5.0\filters.exe
+C:\Users\Admin\source\repos\PS10\bin\Debug\net5.0\filters.deps.json
+C:\Users\Admin\source\repos\PS10\bin\Debug\net5.0\filters.runtimeconfig.json
+C:\Users\Admin\source\repos\PS10\bin\Debug\net5.0\filters.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\PS10\bin\Debug\net5.0\filters.dll
+C:\Users\Admin\source\repos\PS10\bin\Debug\net5.0\ref\filters.dll
+C:\Users\Admin\source\repos\PS10\bin\Debug\net5.0\filters.pdb
+C:\Users\Admin\source\repos\PS10\bin\Debug\net5.0\filters.Views.dll
+C:\Users\Admin\source\repos\PS10\bin\Debug\net5.0\filters.Views.pdb
+C:\Users\Admin\source\repos\PS10\obj\Debug\net5.0\staticwebassets\filters.StaticWebAssets.Manifest.cache
+C:\Users\Admin\source\repos\PS10\obj\Debug\net5.0\staticwebassets\filters.StaticWebAssets.xml
+C:\Users\Admin\source\repos\PS10\obj\Debug\net5.0\scopedcss\bundle\filters.styles.css
+C:\Users\Admin\source\repos\PS10\obj\Debug\net5.0\filters.TagHelpers.input.cache
+C:\Users\Admin\source\repos\PS10\obj\Debug\net5.0\filters.TagHelpers.output.cache
+C:\Users\Admin\source\repos\PS10\obj\Debug\net5.0\filters.RazorCoreGenerate.cache
+C:\Users\Admin\source\repos\PS10\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Admin\source\repos\PS10\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Admin\source\repos\PS10\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Admin\source\repos\PS10\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Admin\source\repos\PS10\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Admin\source\repos\PS10\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Admin\source\repos\PS10\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Admin\source\repos\PS10\obj\Debug\net5.0\filters.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\source\repos\PS10\obj\Debug\net5.0\filters.RazorTargetAssemblyInfo.cs
+C:\Users\Admin\source\repos\PS10\obj\Debug\net5.0\filters.Views.pdb
+C:\Users\Admin\source\repos\PS10\obj\Debug\net5.0\filters.genruntimeconfig.cache
+C:\Users\Admin\source\repos\PS10\obj\Debug\net5.0\filters.csproj.CopyComplete
+C:\Users\Admin\source\repos\PS10\obj\Debug\net5.0\Razor\Pages\nowa.cshtml.g.cs
+C:\Users\Admin\source\repos\.NET\PS10\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Admin\source\repos\.NET\PS10\bin\Debug\net5.0\appsettings.json
+C:\Users\Admin\source\repos\.NET\PS10\bin\Debug\net5.0\filters.exe
+C:\Users\Admin\source\repos\.NET\PS10\bin\Debug\net5.0\filters.deps.json
+C:\Users\Admin\source\repos\.NET\PS10\bin\Debug\net5.0\filters.runtimeconfig.json
+C:\Users\Admin\source\repos\.NET\PS10\bin\Debug\net5.0\filters.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\.NET\PS10\bin\Debug\net5.0\filters.dll
+C:\Users\Admin\source\repos\.NET\PS10\bin\Debug\net5.0\ref\filters.dll
+C:\Users\Admin\source\repos\.NET\PS10\bin\Debug\net5.0\filters.pdb
+C:\Users\Admin\source\repos\.NET\PS10\bin\Debug\net5.0\filters.Views.dll
+C:\Users\Admin\source\repos\.NET\PS10\bin\Debug\net5.0\filters.Views.pdb
+C:\Users\Admin\source\repos\.NET\PS10\obj\Debug\net5.0\filters.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\.NET\PS10\obj\Debug\net5.0\filters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\.NET\PS10\obj\Debug\net5.0\filters.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\.NET\PS10\obj\Debug\net5.0\filters.AssemblyInfo.cs
+C:\Users\Admin\source\repos\.NET\PS10\obj\Debug\net5.0\filters.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\.NET\PS10\obj\Debug\net5.0\filters.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\source\repos\.NET\PS10\obj\Debug\net5.0\filters.RazorAssemblyInfo.cache
+C:\Users\Admin\source\repos\.NET\PS10\obj\Debug\net5.0\filters.RazorAssemblyInfo.cs
+C:\Users\Admin\source\repos\.NET\PS10\obj\Debug\net5.0\staticwebassets\filters.StaticWebAssets.Manifest.cache
+C:\Users\Admin\source\repos\.NET\PS10\obj\Debug\net5.0\staticwebassets\filters.StaticWebAssets.xml
+C:\Users\Admin\source\repos\.NET\PS10\obj\Debug\net5.0\scopedcss\bundle\filters.styles.css
+C:\Users\Admin\source\repos\.NET\PS10\obj\Debug\net5.0\filters.TagHelpers.input.cache
+C:\Users\Admin\source\repos\.NET\PS10\obj\Debug\net5.0\filters.TagHelpers.output.cache
+C:\Users\Admin\source\repos\.NET\PS10\obj\Debug\net5.0\filters.RazorCoreGenerate.cache
+C:\Users\Admin\source\repos\.NET\PS10\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Admin\source\repos\.NET\PS10\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Admin\source\repos\.NET\PS10\obj\Debug\net5.0\Razor\Pages\nowa.cshtml.g.cs
+C:\Users\Admin\source\repos\.NET\PS10\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Admin\source\repos\.NET\PS10\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Admin\source\repos\.NET\PS10\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Admin\source\repos\.NET\PS10\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Admin\source\repos\.NET\PS10\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Admin\source\repos\.NET\PS10\obj\Debug\net5.0\filters.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\source\repos\.NET\PS10\obj\Debug\net5.0\filters.RazorTargetAssemblyInfo.cs
+C:\Users\Admin\source\repos\.NET\PS10\obj\Debug\net5.0\filters.Views.pdb
+C:\Users\Admin\source\repos\.NET\PS10\obj\Debug\net5.0\filters.dll
+C:\Users\Admin\source\repos\.NET\PS10\obj\Debug\net5.0\ref\filters.dll
+C:\Users\Admin\source\repos\.NET\PS10\obj\Debug\net5.0\filters.pdb
+C:\Users\Admin\source\repos\.NET\PS10\obj\Debug\net5.0\filters.genruntimeconfig.cache
+C:\Users\Admin\source\repos\.NET\PS10\obj\Debug\net5.0\filters.csproj.CopyComplete

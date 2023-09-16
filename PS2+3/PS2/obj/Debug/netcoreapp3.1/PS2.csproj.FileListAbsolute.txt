@@ -1,0 +1,77 @@
+E:\Studia pliki\Zad 2\PS2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Studia pliki\Zad 2\PS2\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Studia pliki\Zad 2\PS2\bin\Debug\netcoreapp3.1\PS2.exe
+E:\Studia pliki\Zad 2\PS2\bin\Debug\netcoreapp3.1\PS2.deps.json
+E:\Studia pliki\Zad 2\PS2\bin\Debug\netcoreapp3.1\PS2.runtimeconfig.json
+E:\Studia pliki\Zad 2\PS2\bin\Debug\netcoreapp3.1\PS2.runtimeconfig.dev.json
+E:\Studia pliki\Zad 2\PS2\bin\Debug\netcoreapp3.1\PS2.dll
+E:\Studia pliki\Zad 2\PS2\bin\Debug\netcoreapp3.1\PS2.pdb
+E:\Studia pliki\Zad 2\PS2\bin\Debug\netcoreapp3.1\PS2.Views.dll
+E:\Studia pliki\Zad 2\PS2\bin\Debug\netcoreapp3.1\PS2.Views.pdb
+E:\Studia pliki\Zad 2\PS2\obj\Debug\netcoreapp3.1\PS2.csprojAssemblyReference.cache
+E:\Studia pliki\Zad 2\PS2\obj\Debug\netcoreapp3.1\PS2.AssemblyInfoInputs.cache
+E:\Studia pliki\Zad 2\PS2\obj\Debug\netcoreapp3.1\PS2.AssemblyInfo.cs
+E:\Studia pliki\Zad 2\PS2\obj\Debug\netcoreapp3.1\PS2.csproj.CoreCompileInputs.cache
+E:\Studia pliki\Zad 2\PS2\obj\Debug\netcoreapp3.1\PS2.MvcApplicationPartsAssemblyInfo.cache
+E:\Studia pliki\Zad 2\PS2\obj\Debug\netcoreapp3.1\PS2.RazorAssemblyInfo.cache
+E:\Studia pliki\Zad 2\PS2\obj\Debug\netcoreapp3.1\PS2.RazorAssemblyInfo.cs
+E:\Studia pliki\Zad 2\PS2\obj\Debug\netcoreapp3.1\staticwebassets\PS2.StaticWebAssets.Manifest.cache
+E:\Studia pliki\Zad 2\PS2\obj\Debug\netcoreapp3.1\staticwebassets\PS2.StaticWebAssets.xml
+E:\Studia pliki\Zad 2\PS2\obj\Debug\netcoreapp3.1\scopedcss\bundle\PS2.styles.css
+E:\Studia pliki\Zad 2\PS2\obj\Debug\netcoreapp3.1\PS2.TagHelpers.input.cache
+E:\Studia pliki\Zad 2\PS2\obj\Debug\netcoreapp3.1\PS2.TagHelpers.output.cache
+E:\Studia pliki\Zad 2\PS2\obj\Debug\netcoreapp3.1\PS2.RazorCoreGenerate.cache
+E:\Studia pliki\Zad 2\PS2\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+E:\Studia pliki\Zad 2\PS2\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+E:\Studia pliki\Zad 2\PS2\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+E:\Studia pliki\Zad 2\PS2\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+E:\Studia pliki\Zad 2\PS2\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Studia pliki\Zad 2\PS2\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+E:\Studia pliki\Zad 2\PS2\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+E:\Studia pliki\Zad 2\PS2\obj\Debug\netcoreapp3.1\PS2.RazorTargetAssemblyInfo.cache
+E:\Studia pliki\Zad 2\PS2\obj\Debug\netcoreapp3.1\PS2.RazorTargetAssemblyInfo.cs
+E:\Studia pliki\Zad 2\PS2\obj\Debug\netcoreapp3.1\PS2.Views.pdb
+E:\Studia pliki\Zad 2\PS2\obj\Debug\netcoreapp3.1\PS2.dll
+E:\Studia pliki\Zad 2\PS2\obj\Debug\netcoreapp3.1\PS2.pdb
+E:\Studia pliki\Zad 2\PS2\obj\Debug\netcoreapp3.1\PS2.genruntimeconfig.cache
+E:\Studia pliki\Zad 2\PS2\obj\Debug\netcoreapp3.1\PS2.csproj.CopyComplete
+E:\Studia pliki\Zad 2\PS2\obj\Debug\netcoreapp3.1\Razor\Pages\WynikBMI.cshtml.g.cs
+E:\Studia pliki\Zad 2 +3\PS2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Studia pliki\Zad 2 +3\PS2\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Studia pliki\Zad 2 +3\PS2\bin\Debug\netcoreapp3.1\PS2.exe
+E:\Studia pliki\Zad 2 +3\PS2\bin\Debug\netcoreapp3.1\PS2.deps.json
+E:\Studia pliki\Zad 2 +3\PS2\bin\Debug\netcoreapp3.1\PS2.runtimeconfig.json
+E:\Studia pliki\Zad 2 +3\PS2\bin\Debug\netcoreapp3.1\PS2.runtimeconfig.dev.json
+E:\Studia pliki\Zad 2 +3\PS2\bin\Debug\netcoreapp3.1\PS2.dll
+E:\Studia pliki\Zad 2 +3\PS2\bin\Debug\netcoreapp3.1\PS2.pdb
+E:\Studia pliki\Zad 2 +3\PS2\bin\Debug\netcoreapp3.1\PS2.Views.dll
+E:\Studia pliki\Zad 2 +3\PS2\bin\Debug\netcoreapp3.1\PS2.Views.pdb
+E:\Studia pliki\Zad 2 +3\PS2\obj\Debug\netcoreapp3.1\PS2.csprojAssemblyReference.cache
+E:\Studia pliki\Zad 2 +3\PS2\obj\Debug\netcoreapp3.1\PS2.AssemblyInfoInputs.cache
+E:\Studia pliki\Zad 2 +3\PS2\obj\Debug\netcoreapp3.1\PS2.AssemblyInfo.cs
+E:\Studia pliki\Zad 2 +3\PS2\obj\Debug\netcoreapp3.1\PS2.csproj.CoreCompileInputs.cache
+E:\Studia pliki\Zad 2 +3\PS2\obj\Debug\netcoreapp3.1\PS2.MvcApplicationPartsAssemblyInfo.cache
+E:\Studia pliki\Zad 2 +3\PS2\obj\Debug\netcoreapp3.1\PS2.RazorAssemblyInfo.cache
+E:\Studia pliki\Zad 2 +3\PS2\obj\Debug\netcoreapp3.1\PS2.RazorAssemblyInfo.cs
+E:\Studia pliki\Zad 2 +3\PS2\obj\Debug\netcoreapp3.1\staticwebassets\PS2.StaticWebAssets.Manifest.cache
+E:\Studia pliki\Zad 2 +3\PS2\obj\Debug\netcoreapp3.1\staticwebassets\PS2.StaticWebAssets.xml
+E:\Studia pliki\Zad 2 +3\PS2\obj\Debug\netcoreapp3.1\scopedcss\bundle\PS2.styles.css
+E:\Studia pliki\Zad 2 +3\PS2\obj\Debug\netcoreapp3.1\PS2.TagHelpers.input.cache
+E:\Studia pliki\Zad 2 +3\PS2\obj\Debug\netcoreapp3.1\PS2.TagHelpers.output.cache
+E:\Studia pliki\Zad 2 +3\PS2\obj\Debug\netcoreapp3.1\PS2.RazorCoreGenerate.cache
+E:\Studia pliki\Zad 2 +3\PS2\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+E:\Studia pliki\Zad 2 +3\PS2\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+E:\Studia pliki\Zad 2 +3\PS2\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+E:\Studia pliki\Zad 2 +3\PS2\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+E:\Studia pliki\Zad 2 +3\PS2\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Studia pliki\Zad 2 +3\PS2\obj\Debug\netcoreapp3.1\Razor\Pages\WynikBMI.cshtml.g.cs
+E:\Studia pliki\Zad 2 +3\PS2\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+E:\Studia pliki\Zad 2 +3\PS2\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+E:\Studia pliki\Zad 2 +3\PS2\obj\Debug\netcoreapp3.1\PS2.RazorTargetAssemblyInfo.cache
+E:\Studia pliki\Zad 2 +3\PS2\obj\Debug\netcoreapp3.1\PS2.RazorTargetAssemblyInfo.cs
+E:\Studia pliki\Zad 2 +3\PS2\obj\Debug\netcoreapp3.1\PS2.Views.pdb
+E:\Studia pliki\Zad 2 +3\PS2\obj\Debug\netcoreapp3.1\PS2.dll
+E:\Studia pliki\Zad 2 +3\PS2\obj\Debug\netcoreapp3.1\PS2.pdb
+E:\Studia pliki\Zad 2 +3\PS2\obj\Debug\netcoreapp3.1\PS2.genruntimeconfig.cache
+E:\Studia pliki\Zad 2 +3\PS2\obj\Debug\netcoreapp3.1\PS2.csproj.CopyComplete
+E:\Studia pliki\Zad 2 +3\PS2\obj\Debug\netcoreapp3.1\Razor\Pages\Formularz.cshtml.g.cs

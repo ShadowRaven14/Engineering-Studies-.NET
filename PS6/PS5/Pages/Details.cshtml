@@ -1,0 +1,34 @@
+﻿@page
+@model PS5.Pages.DetailsModel
+@{
+    ViewData["Title"] = "Details";
+}
+<h1>Szczegóły</h1>
+
+<body style="        background-color: antiquewhite;
+        color: black">
+</body>
+
+<div class="container">
+    <br />
+    Informacje na temat produktu. Każdy sprzedawany towar jest najwyżej jakości!
+    <br />
+    Nazwa: @Model.newProduct.name <b> *odznaczony medalem jakości produktu* </b>
+
+    <br />
+    Cena: @Model.newProduct.price złotych polskich
+    <br />
+    <br />
+    Jeśli kupujesz produkt hurtowo otrzymasz 10% rabatu!
+    (Pamiętaj, aby wylegitymować się przed zakupem. Więcej informacji znajdziesz u producenta.)
+    <br />
+    <br />
+
+    <form class="form-horizontal" method="post">
+        <div class="form-group">
+            <div class="col-sm-offset-2 col-sm-10">
+                <button class="btn btn btn-primary">Cofnij</button>
+            </div>
+        </div>
+    </form>
+</div>

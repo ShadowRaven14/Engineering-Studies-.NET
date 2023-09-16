@@ -1,0 +1,18 @@
+<store>
+  <product id="1">
+    <name>Narty</name>
+    <price>359,99</price>
+  </product>
+  <product id="3">
+    <name>JABŁKO</name>
+    <price>10</price>
+  </product>
+  <product id="4">
+    <name>WIŚNIA</name>
+    <price>4</price>
+  </product>
+  <product id="5">
+    <name>PESTKA SŁONECZNIKA</name>
+    <price>10</price>
+  </product>
+</store>

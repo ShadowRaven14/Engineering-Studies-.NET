@@ -1,0 +1,38 @@
+﻿@page "{Nazwisko}/{Imie}/{Wiek}/{Plec}/{Telefon}/{Jezyk1}/{Jezyk2}/{Jezyk3}"
+@model DoswiadczonyPracownik
+@{
+    var Nazwisko = RouteData.Values["Nazwisko"];
+    var Imie = RouteData.Values["Imie"];
+    var Wiek = RouteData.Values["Wiek"];
+    var Plec = RouteData.Values["Plec"];
+    var Telefon = RouteData.Values["Telefon"];
+    var Jezyk1 = RouteData.Values["Jezyk1"];
+    var Jezyk2 = RouteData.Values["Jezyk2"];
+    var Jezyk3 = RouteData.Values["Jezyk3"];
+
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Doswiadczony</title>
+</head>
+<body>
+    <div>Dziękujemy za wysłanie zgłoszenia. Poszukujemy dokładnie takiego pracownika! Sprawdź czy Twoje dane są prawidłowe.</div>
+    <br />
+    Nazwisko: @Nazwisko
+    <br />
+    Imie: @Imie
+    <br />
+    Wiek: @Wiek
+    <br />
+    Płeć: @Plec
+    <br />
+    Telefon: @Telefon
+    <br />
+    Języki programowania: @Jezyk1 @Jezyk2 @Jezyk3
+
+</body>
+</html>
+

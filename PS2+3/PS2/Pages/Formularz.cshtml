@@ -1,0 +1,85 @@
+﻿@page
+@model PS2.Pages.FormularzModel
+@{
+    ViewData["Title"] = "Home page";
+    //Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Strona główna</title>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+</head>
+
+<body style="background-color: antiquewhite; color: black">
+    <h4>Darmowy kalkulator BMI</h4>
+    <form method="post">
+
+        <h4 class="display-4">
+            Wpisz swoje dane:
+        </h4>
+        <br />
+        <br />
+        <div>
+            <b> <label asp-for="person.Imie"></label> </b>
+                    <input asp-for="person.Imie" />
+                    <span asp-validation-for="person.Imie" class="text-danger"></span>
+        </div>
+        <br />
+
+
+        <div>
+            <b> <label asp-for="person.Email"></label> </b>
+                <input type="email" , asp-for="person.Email" />
+        </div>
+        <br />
+
+
+        <div>
+            <b> <label asp-for="person.Wiek"></label> </b>
+            <input asp-for="person.Wiek" />
+        </div>
+        <br />
+
+        <div>
+            <b> <label asp-for="person.Wzrost"></label> </b>
+                <input asp-for="person.Wzrost" />
+                <select asp-for="person.JednostkaM">
+                    <option value="100">cm</option>
+                    <option value="1">m</option>
+                </select>
+                <span asp-validation-for="person.Wzrost" class="text-danger"></span>
+        </div>
+        <br />
+
+        <div>
+            <b> <label asp-for="person.Waga"></label> </b>
+                <input asp-for="person.Waga" />
+                <select name="jednostka_wagi">
+                    <option value="1">kg</option>
+                </select>
+                <span asp-validation-for="person.Waga" class="text-danger"></span>
+        </div>
+        <br />
+
+
+        <br />
+        <br />
+        <b> <label asp-for="person.Plec"></label> </b>
+            <select asp-for="person.Plec">
+                <option value="kobieta">Kobieta</option>
+                <option value="mezczyzna">Mężczyzna</option>
+            </select>
+        <br />
+        <br />
+
+        <br />
+        <b> <input type="submit" value="Oblicz" /> </b>
+        <br />
+</form>
+</body>
+</html>

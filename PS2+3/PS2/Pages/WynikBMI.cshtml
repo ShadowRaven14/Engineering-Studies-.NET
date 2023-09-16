@@ -1,0 +1,40 @@
+﻿@page "{Imie}/{Email}/{Plec}/{Wzrost}/{Waga}/{Wiek}/{Wynik}"
+@model PS2.Pages.WynikBMIModel
+@{
+    string k = " ";
+    var Imie = RouteData.Values["Imie"];
+    var Email = RouteData.Values["Email"];
+    var Wzrost = RouteData.Values["Wzrost"];
+    var Waga = RouteData.Values["Waga"];
+    var Wiek = RouteData.Values["Wiek"];
+    var Plec = RouteData.Values["Plec"];
+    float BMI = float.Parse(RouteData.Values["Wynik"].ToString().Replace(".", ","));
+    if (BMI >= 18.50 || BMI <= 24.99)
+    {
+        k = "alert-danger";
+    }
+}
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Oto Twój wynik użytkowniku:</title>
+</head>
+<body style="background-color: antiquewhite; color: black">
+    <center>
+        <h1>Informacje:</h1>
+        <br />
+        <b> Imie: </b> @Imie  <br />
+        <b> Email: </b> @Email  <br />
+        <b> Plec: </b> @Plec <br />
+        <b> Wzrost: </b> @Wzrost <br />
+        <b> Waga: </b> @Waga <br />
+        <b> Wiek: </b> @Wiek <br />
+
+        <br />
+        <p class="@k"> <b> BMI: </b> @BMI </p> <br />
+    </center>
+</body>
+</html>

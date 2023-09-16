@@ -1,0 +1,145 @@
+C:\Users\pieci\Desktop\studia\semestr 4\.NET\PS 1\Nowy folder\PS1\PS1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\pieci\Desktop\studia\semestr 4\.NET\PS 1\Nowy folder\PS1\PS1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\pieci\Desktop\studia\semestr 4\.NET\PS 1\Nowy folder\PS1\PS1\bin\Debug\netcoreapp3.1\PS1.exe
+C:\Users\pieci\Desktop\studia\semestr 4\.NET\PS 1\Nowy folder\PS1\PS1\bin\Debug\netcoreapp3.1\PS1.deps.json
+C:\Users\pieci\Desktop\studia\semestr 4\.NET\PS 1\Nowy folder\PS1\PS1\bin\Debug\netcoreapp3.1\PS1.runtimeconfig.json
+C:\Users\pieci\Desktop\studia\semestr 4\.NET\PS 1\Nowy folder\PS1\PS1\bin\Debug\netcoreapp3.1\PS1.runtimeconfig.dev.json
+C:\Users\pieci\Desktop\studia\semestr 4\.NET\PS 1\Nowy folder\PS1\PS1\bin\Debug\netcoreapp3.1\PS1.dll
+C:\Users\pieci\Desktop\studia\semestr 4\.NET\PS 1\Nowy folder\PS1\PS1\bin\Debug\netcoreapp3.1\PS1.pdb
+C:\Users\pieci\Desktop\studia\semestr 4\.NET\PS 1\Nowy folder\PS1\PS1\bin\Debug\netcoreapp3.1\PS1.Views.dll
+C:\Users\pieci\Desktop\studia\semestr 4\.NET\PS 1\Nowy folder\PS1\PS1\bin\Debug\netcoreapp3.1\PS1.Views.pdb
+C:\Users\pieci\Desktop\studia\semestr 4\.NET\PS 1\Nowy folder\PS1\PS1\obj\Debug\netcoreapp3.1\PS1.csprojAssemblyReference.cache
+C:\Users\pieci\Desktop\studia\semestr 4\.NET\PS 1\Nowy folder\PS1\PS1\obj\Debug\netcoreapp3.1\PS1.AssemblyInfoInputs.cache
+C:\Users\pieci\Desktop\studia\semestr 4\.NET\PS 1\Nowy folder\PS1\PS1\obj\Debug\netcoreapp3.1\PS1.AssemblyInfo.cs
+C:\Users\pieci\Desktop\studia\semestr 4\.NET\PS 1\Nowy folder\PS1\PS1\obj\Debug\netcoreapp3.1\PS1.csproj.CoreCompileInputs.cache
+C:\Users\pieci\Desktop\studia\semestr 4\.NET\PS 1\Nowy folder\PS1\PS1\obj\Debug\netcoreapp3.1\PS1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pieci\Desktop\studia\semestr 4\.NET\PS 1\Nowy folder\PS1\PS1\obj\Debug\netcoreapp3.1\PS1.RazorAssemblyInfo.cache
+C:\Users\pieci\Desktop\studia\semestr 4\.NET\PS 1\Nowy folder\PS1\PS1\obj\Debug\netcoreapp3.1\PS1.RazorAssemblyInfo.cs
+C:\Users\pieci\Desktop\studia\semestr 4\.NET\PS 1\Nowy folder\PS1\PS1\obj\Debug\netcoreapp3.1\staticwebassets\PS1.StaticWebAssets.Manifest.cache
+C:\Users\pieci\Desktop\studia\semestr 4\.NET\PS 1\Nowy folder\PS1\PS1\obj\Debug\netcoreapp3.1\staticwebassets\PS1.StaticWebAssets.xml
+C:\Users\pieci\Desktop\studia\semestr 4\.NET\PS 1\Nowy folder\PS1\PS1\obj\Debug\netcoreapp3.1\scopedcss\bundle\PS1.styles.css
+C:\Users\pieci\Desktop\studia\semestr 4\.NET\PS 1\Nowy folder\PS1\PS1\obj\Debug\netcoreapp3.1\PS1.TagHelpers.input.cache
+C:\Users\pieci\Desktop\studia\semestr 4\.NET\PS 1\Nowy folder\PS1\PS1\obj\Debug\netcoreapp3.1\PS1.TagHelpers.output.cache
+C:\Users\pieci\Desktop\studia\semestr 4\.NET\PS 1\Nowy folder\PS1\PS1\obj\Debug\netcoreapp3.1\PS1.RazorCoreGenerate.cache
+C:\Users\pieci\Desktop\studia\semestr 4\.NET\PS 1\Nowy folder\PS1\PS1\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\pieci\Desktop\studia\semestr 4\.NET\PS 1\Nowy folder\PS1\PS1\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\pieci\Desktop\studia\semestr 4\.NET\PS 1\Nowy folder\PS1\PS1\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\pieci\Desktop\studia\semestr 4\.NET\PS 1\Nowy folder\PS1\PS1\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\pieci\Desktop\studia\semestr 4\.NET\PS 1\Nowy folder\PS1\PS1\obj\Debug\netcoreapp3.1\PS1.RazorTargetAssemblyInfo.cache
+C:\Users\pieci\Desktop\studia\semestr 4\.NET\PS 1\Nowy folder\PS1\PS1\obj\Debug\netcoreapp3.1\PS1.RazorTargetAssemblyInfo.cs
+C:\Users\pieci\Desktop\studia\semestr 4\.NET\PS 1\Nowy folder\PS1\PS1\obj\Debug\netcoreapp3.1\PS1.Views.pdb
+C:\Users\pieci\Desktop\studia\semestr 4\.NET\PS 1\Nowy folder\PS1\PS1\obj\Debug\netcoreapp3.1\PS1.dll
+C:\Users\pieci\Desktop\studia\semestr 4\.NET\PS 1\Nowy folder\PS1\PS1\obj\Debug\netcoreapp3.1\PS1.pdb
+C:\Users\pieci\Desktop\studia\semestr 4\.NET\PS 1\Nowy folder\PS1\PS1\obj\Debug\netcoreapp3.1\PS1.genruntimeconfig.cache
+C:\Users\pieci\Desktop\studia\semestr 4\.NET\PS 1\Nowy folder\PS1\PS1\obj\Debug\netcoreapp3.1\PS1.csproj.CopyComplete
+C:\Users\pieci\Desktop\studia\semestr 4\.NET\PS 1\Nowy folder\PS1\PS1\obj\Debug\netcoreapp3.1\Razor\Pages\Mlody.cshtml.g.cs
+C:\Users\pieci\Desktop\studia\semestr 4\.NET\PS 1\Nowy folder\PS1\PS1\obj\Debug\netcoreapp3.1\Razor\Pages\Starszy.cshtml.g.cs
+C:\Users\Admin\Desktop\Nowy folder (2)\PS1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Admin\Desktop\Nowy folder (2)\PS1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Admin\Desktop\Nowy folder (2)\PS1\bin\Debug\netcoreapp3.1\PS1.exe
+C:\Users\Admin\Desktop\Nowy folder (2)\PS1\bin\Debug\netcoreapp3.1\PS1.deps.json
+C:\Users\Admin\Desktop\Nowy folder (2)\PS1\bin\Debug\netcoreapp3.1\PS1.runtimeconfig.json
+C:\Users\Admin\Desktop\Nowy folder (2)\PS1\bin\Debug\netcoreapp3.1\PS1.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Nowy folder (2)\PS1\bin\Debug\netcoreapp3.1\PS1.dll
+C:\Users\Admin\Desktop\Nowy folder (2)\PS1\bin\Debug\netcoreapp3.1\PS1.pdb
+C:\Users\Admin\Desktop\Nowy folder (2)\PS1\bin\Debug\netcoreapp3.1\PS1.Views.dll
+C:\Users\Admin\Desktop\Nowy folder (2)\PS1\bin\Debug\netcoreapp3.1\PS1.Views.pdb
+C:\Users\Admin\Desktop\Nowy folder (2)\PS1\obj\Debug\netcoreapp3.1\PS1.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Nowy folder (2)\PS1\obj\Debug\netcoreapp3.1\PS1.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Nowy folder (2)\PS1\obj\Debug\netcoreapp3.1\PS1.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Nowy folder (2)\PS1\obj\Debug\netcoreapp3.1\PS1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Nowy folder (2)\PS1\obj\Debug\netcoreapp3.1\PS1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\Nowy folder (2)\PS1\obj\Debug\netcoreapp3.1\PS1.RazorAssemblyInfo.cache
+C:\Users\Admin\Desktop\Nowy folder (2)\PS1\obj\Debug\netcoreapp3.1\PS1.RazorAssemblyInfo.cs
+C:\Users\Admin\Desktop\Nowy folder (2)\PS1\obj\Debug\netcoreapp3.1\staticwebassets\PS1.StaticWebAssets.Manifest.cache
+C:\Users\Admin\Desktop\Nowy folder (2)\PS1\obj\Debug\netcoreapp3.1\staticwebassets\PS1.StaticWebAssets.xml
+C:\Users\Admin\Desktop\Nowy folder (2)\PS1\obj\Debug\netcoreapp3.1\scopedcss\bundle\PS1.styles.css
+C:\Users\Admin\Desktop\Nowy folder (2)\PS1\obj\Debug\netcoreapp3.1\PS1.TagHelpers.input.cache
+C:\Users\Admin\Desktop\Nowy folder (2)\PS1\obj\Debug\netcoreapp3.1\PS1.TagHelpers.output.cache
+C:\Users\Admin\Desktop\Nowy folder (2)\PS1\obj\Debug\netcoreapp3.1\PS1.RazorCoreGenerate.cache
+C:\Users\Admin\Desktop\Nowy folder (2)\PS1\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Admin\Desktop\Nowy folder (2)\PS1\obj\Debug\netcoreapp3.1\Razor\Pages\Mlody.cshtml.g.cs
+C:\Users\Admin\Desktop\Nowy folder (2)\PS1\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Admin\Desktop\Nowy folder (2)\PS1\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Admin\Desktop\Nowy folder (2)\PS1\obj\Debug\netcoreapp3.1\Razor\Pages\Starszy.cshtml.g.cs
+C:\Users\Admin\Desktop\Nowy folder (2)\PS1\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Admin\Desktop\Nowy folder (2)\PS1\obj\Debug\netcoreapp3.1\PS1.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\Desktop\Nowy folder (2)\PS1\obj\Debug\netcoreapp3.1\PS1.RazorTargetAssemblyInfo.cs
+C:\Users\Admin\Desktop\Nowy folder (2)\PS1\obj\Debug\netcoreapp3.1\PS1.Views.pdb
+C:\Users\Admin\Desktop\Nowy folder (2)\PS1\obj\Debug\netcoreapp3.1\PS1.dll
+C:\Users\Admin\Desktop\Nowy folder (2)\PS1\obj\Debug\netcoreapp3.1\PS1.pdb
+C:\Users\Admin\Desktop\Nowy folder (2)\PS1\obj\Debug\netcoreapp3.1\PS1.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Nowy folder (2)\PS1\obj\Debug\netcoreapp3.1\PS1.csproj.CopyComplete
+C:\Users\Admin\Desktop\Nowy folder (2) — kopia\PS1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Admin\Desktop\Nowy folder (2) — kopia\PS1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Admin\Desktop\Nowy folder (2) — kopia\PS1\bin\Debug\netcoreapp3.1\PS1.exe
+C:\Users\Admin\Desktop\Nowy folder (2) — kopia\PS1\bin\Debug\netcoreapp3.1\PS1.deps.json
+C:\Users\Admin\Desktop\Nowy folder (2) — kopia\PS1\bin\Debug\netcoreapp3.1\PS1.runtimeconfig.json
+C:\Users\Admin\Desktop\Nowy folder (2) — kopia\PS1\bin\Debug\netcoreapp3.1\PS1.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Nowy folder (2) — kopia\PS1\bin\Debug\netcoreapp3.1\PS1.dll
+C:\Users\Admin\Desktop\Nowy folder (2) — kopia\PS1\bin\Debug\netcoreapp3.1\PS1.pdb
+C:\Users\Admin\Desktop\Nowy folder (2) — kopia\PS1\bin\Debug\netcoreapp3.1\PS1.Views.dll
+C:\Users\Admin\Desktop\Nowy folder (2) — kopia\PS1\bin\Debug\netcoreapp3.1\PS1.Views.pdb
+C:\Users\Admin\Desktop\Nowy folder (2) — kopia\PS1\obj\Debug\netcoreapp3.1\PS1.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Nowy folder (2) — kopia\PS1\obj\Debug\netcoreapp3.1\PS1.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Nowy folder (2) — kopia\PS1\obj\Debug\netcoreapp3.1\PS1.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Nowy folder (2) — kopia\PS1\obj\Debug\netcoreapp3.1\PS1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Nowy folder (2) — kopia\PS1\obj\Debug\netcoreapp3.1\PS1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\Nowy folder (2) — kopia\PS1\obj\Debug\netcoreapp3.1\PS1.RazorAssemblyInfo.cache
+C:\Users\Admin\Desktop\Nowy folder (2) — kopia\PS1\obj\Debug\netcoreapp3.1\PS1.RazorAssemblyInfo.cs
+C:\Users\Admin\Desktop\Nowy folder (2) — kopia\PS1\obj\Debug\netcoreapp3.1\staticwebassets\PS1.StaticWebAssets.Manifest.cache
+C:\Users\Admin\Desktop\Nowy folder (2) — kopia\PS1\obj\Debug\netcoreapp3.1\staticwebassets\PS1.StaticWebAssets.xml
+C:\Users\Admin\Desktop\Nowy folder (2) — kopia\PS1\obj\Debug\netcoreapp3.1\scopedcss\bundle\PS1.styles.css
+C:\Users\Admin\Desktop\Nowy folder (2) — kopia\PS1\obj\Debug\netcoreapp3.1\PS1.TagHelpers.input.cache
+C:\Users\Admin\Desktop\Nowy folder (2) — kopia\PS1\obj\Debug\netcoreapp3.1\PS1.TagHelpers.output.cache
+C:\Users\Admin\Desktop\Nowy folder (2) — kopia\PS1\obj\Debug\netcoreapp3.1\PS1.RazorCoreGenerate.cache
+C:\Users\Admin\Desktop\Nowy folder (2) — kopia\PS1\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Admin\Desktop\Nowy folder (2) — kopia\PS1\obj\Debug\netcoreapp3.1\Razor\Pages\Mlody.cshtml.g.cs
+C:\Users\Admin\Desktop\Nowy folder (2) — kopia\PS1\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Admin\Desktop\Nowy folder (2) — kopia\PS1\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Admin\Desktop\Nowy folder (2) — kopia\PS1\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Admin\Desktop\Nowy folder (2) — kopia\PS1\obj\Debug\netcoreapp3.1\PS1.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\Desktop\Nowy folder (2) — kopia\PS1\obj\Debug\netcoreapp3.1\PS1.RazorTargetAssemblyInfo.cs
+C:\Users\Admin\Desktop\Nowy folder (2) — kopia\PS1\obj\Debug\netcoreapp3.1\PS1.Views.pdb
+C:\Users\Admin\Desktop\Nowy folder (2) — kopia\PS1\obj\Debug\netcoreapp3.1\PS1.dll
+C:\Users\Admin\Desktop\Nowy folder (2) — kopia\PS1\obj\Debug\netcoreapp3.1\PS1.pdb
+C:\Users\Admin\Desktop\Nowy folder (2) — kopia\PS1\obj\Debug\netcoreapp3.1\PS1.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Nowy folder (2) — kopia\PS1\obj\Debug\netcoreapp3.1\PS1.csproj.CopyComplete
+C:\Users\Admin\Desktop\Nowy folder (2) — kopia\PS1\obj\Debug\netcoreapp3.1\Razor\Pages\Doswiadczony.cshtml.g.cs
+C:\Users\Admin\source\repos\.NET\PS1\PS1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Admin\source\repos\.NET\PS1\PS1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Admin\source\repos\.NET\PS1\PS1\bin\Debug\netcoreapp3.1\PS1.exe
+C:\Users\Admin\source\repos\.NET\PS1\PS1\bin\Debug\netcoreapp3.1\PS1.deps.json
+C:\Users\Admin\source\repos\.NET\PS1\PS1\bin\Debug\netcoreapp3.1\PS1.runtimeconfig.json
+C:\Users\Admin\source\repos\.NET\PS1\PS1\bin\Debug\netcoreapp3.1\PS1.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\.NET\PS1\PS1\bin\Debug\netcoreapp3.1\PS1.dll
+C:\Users\Admin\source\repos\.NET\PS1\PS1\bin\Debug\netcoreapp3.1\PS1.pdb
+C:\Users\Admin\source\repos\.NET\PS1\PS1\bin\Debug\netcoreapp3.1\PS1.Views.dll
+C:\Users\Admin\source\repos\.NET\PS1\PS1\bin\Debug\netcoreapp3.1\PS1.Views.pdb
+C:\Users\Admin\source\repos\.NET\PS1\PS1\obj\Debug\netcoreapp3.1\PS1.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\.NET\PS1\PS1\obj\Debug\netcoreapp3.1\PS1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\.NET\PS1\PS1\obj\Debug\netcoreapp3.1\PS1.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\.NET\PS1\PS1\obj\Debug\netcoreapp3.1\PS1.AssemblyInfo.cs
+C:\Users\Admin\source\repos\.NET\PS1\PS1\obj\Debug\netcoreapp3.1\PS1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\.NET\PS1\PS1\obj\Debug\netcoreapp3.1\PS1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\source\repos\.NET\PS1\PS1\obj\Debug\netcoreapp3.1\PS1.RazorAssemblyInfo.cache
+C:\Users\Admin\source\repos\.NET\PS1\PS1\obj\Debug\netcoreapp3.1\PS1.RazorAssemblyInfo.cs
+C:\Users\Admin\source\repos\.NET\PS1\PS1\obj\Debug\netcoreapp3.1\staticwebassets\PS1.StaticWebAssets.Manifest.cache
+C:\Users\Admin\source\repos\.NET\PS1\PS1\obj\Debug\netcoreapp3.1\staticwebassets\PS1.StaticWebAssets.xml
+C:\Users\Admin\source\repos\.NET\PS1\PS1\obj\Debug\netcoreapp3.1\scopedcss\bundle\PS1.styles.css
+C:\Users\Admin\source\repos\.NET\PS1\PS1\obj\Debug\netcoreapp3.1\PS1.TagHelpers.input.cache
+C:\Users\Admin\source\repos\.NET\PS1\PS1\obj\Debug\netcoreapp3.1\PS1.TagHelpers.output.cache
+C:\Users\Admin\source\repos\.NET\PS1\PS1\obj\Debug\netcoreapp3.1\PS1.RazorCoreGenerate.cache
+C:\Users\Admin\source\repos\.NET\PS1\PS1\obj\Debug\netcoreapp3.1\Razor\Pages\Doswiadczony.cshtml.g.cs
+C:\Users\Admin\source\repos\.NET\PS1\PS1\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Admin\source\repos\.NET\PS1\PS1\obj\Debug\netcoreapp3.1\Razor\Pages\Mlody.cshtml.g.cs
+C:\Users\Admin\source\repos\.NET\PS1\PS1\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Admin\source\repos\.NET\PS1\PS1\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Admin\source\repos\.NET\PS1\PS1\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Admin\source\repos\.NET\PS1\PS1\obj\Debug\netcoreapp3.1\PS1.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\source\repos\.NET\PS1\PS1\obj\Debug\netcoreapp3.1\PS1.RazorTargetAssemblyInfo.cs
+C:\Users\Admin\source\repos\.NET\PS1\PS1\obj\Debug\netcoreapp3.1\PS1.Views.pdb
+C:\Users\Admin\source\repos\.NET\PS1\PS1\obj\Debug\netcoreapp3.1\PS1.dll
+C:\Users\Admin\source\repos\.NET\PS1\PS1\obj\Debug\netcoreapp3.1\PS1.pdb
+C:\Users\Admin\source\repos\.NET\PS1\PS1\obj\Debug\netcoreapp3.1\PS1.genruntimeconfig.cache
+C:\Users\Admin\source\repos\.NET\PS1\PS1\obj\Debug\netcoreapp3.1\PS1.csproj.CopyComplete

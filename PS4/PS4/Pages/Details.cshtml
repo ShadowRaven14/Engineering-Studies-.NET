@@ -1,0 +1,23 @@
+﻿@page
+@model PS4.Pages.DetailsModel
+@{
+    ViewData["Title"] = "Details";
+}
+<h1>Szczegóły</h1>
+<div class="container">
+    <br />
+    Informacje na temat produktu. Każdy sprzedawany towar jest najwyżej jakości!
+    <br />
+    Nazwa: @Model.product.name <b> *odznaczony medalem jakości produktu* </b>
+
+    <br />
+    Cena: @Model.product.price złotych polskich
+
+    <br />
+    <br />
+
+    <form asp-page-handler="Add" method="post">
+        <button class="btn btn-primary btn-large">Zakup wybrany produkt</button>
+        <input type="hidden" name="id" value="@Model.product.id" />
+    </form>
+</div>

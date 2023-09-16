@@ -1,0 +1,52 @@
+﻿@page
+@model IndexModel
+@{
+	ViewData["Title"] = "Home page";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+	<title>Strona główna</title>
+</head>
+<body>
+    <h1>Formularz zgłoszeniowy najlepszej firmy w Polsce! Zarejestruj się.</h1>
+    <form method="post">
+
+        Dane osobowe:
+        <br />
+        <br />
+        <div> Nazwisko: <input type="text" name="nazwisko" /> </div>
+        <br />
+        <div> Imię: <input type="text" name="imie" /></div>
+        <br />
+        <div> Wiek: <input type="number" name="wiek" /></div>
+        <br />
+
+        Płeć:
+        <br />
+        <br />
+        <div><input type="radio" name="plec" value="Mężczyzna" /> Mężczyzna </div>
+        <br />
+        <div><input type="radio" name="plec" value="Kobieta" /> Kobieta </div>
+        <br />
+        <div> Telefon: <input type="text" name="telefon" k /></div>
+        <br />
+
+        Języki programowania:
+        <br />
+        <br />
+        <div><input type="checkbox" name="jezykProgramowaniaC" value="C" /> C </div>
+        <br />
+        <div><input type="checkbox" name="jezykProgramowaniaC#" value="C#" /> C# </div>
+        <br />
+        <div><input type="checkbox" name="jezykProgrramowaniaJava" value="Java" /> Java </div>
+        <br />
+        <br />
+
+        <input type="submit" value="Zatwierdź" />
+    </form>
+</body>
+</html>
+

@@ -1,0 +1,42 @@
+﻿@page
+@model ListModel
+@{
+    ViewData["Title"] = "Lista produktów";
+}
+
+<center>
+    <h2>  Lista produktów </h2>
+    <br />
+    <div>
+        <a asp-page="Create" class="btn btn-primary btn-large"> Dodaj produkt do bazy </a>
+    </div>
+</center>
+<br />
+<br />
+
+<body style="        background-color: antiquewhite;
+        color: black">
+</body>
+
+<table class="table table-striped">
+    <thead style="        background-color: lightcoral;
+        color: black">
+        <tr>
+            <th scope="col">
+                Id
+            </th>
+            <th scope="col">
+                Nazwa
+            </th>
+            <th scope="col">
+                Cena
+            </th>
+            <th scope="col">Akcja</th>
+        </tr>
+    </thead>
+    <tbody style="        background-color: whitesmoke;
+        color: black">
+        @Html.Raw(Model.lblInfoText)
+    </tbody>
+
+</table>

@@ -1,0 +1,26 @@
+﻿@page
+@model PS4.Pages.ShopCartModel
+@{
+    ViewData["Title"] = "Koszyk";
+}
+
+<h1>Koszyk</h1>
+<div class="container">
+    @if (Model.shopcartDB.GetProductsList != null)
+    {
+        @foreach (var i in Model.shopcartDB.GetProductsList)
+        {
+    <div>
+        @(i?.name ?? "Brak produktu w sklepie.")
+    </div>
+        }
+    }
+
+    <div class="row col-sm-12">
+        <a asp-page="List" class="btn btn-primary btn-large">Powrót do Sklepu</a>
+        <form asp-page-handler="Delete" method="post">
+            <button class="btn btn-primary btn-large">Nowy Koszyk</button>
+        </form>
+
+    </div>
+</div>

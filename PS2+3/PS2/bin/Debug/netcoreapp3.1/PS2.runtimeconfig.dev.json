@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Anetta\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Anetta\\.nuget\\packages"
+    ]
+  }
+}

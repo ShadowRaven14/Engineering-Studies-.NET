@@ -1,0 +1,33 @@
+﻿@page
+@model PS4.Pages.EditModel
+@{
+    ViewData["Title"] = "Edytuj";
+}
+
+<h2>Edytuj</h2>
+<br />
+<br />
+<div class="container">
+    <form class="form-horizontal" method="post">
+        <div class="form-group">
+            @Html.Hidden("editProduct.id", Model.editProduct.id)
+            <label asp-for="editProduct.name" class="control-label col-sm2"></label>
+            <div class="col-sm-6">
+                <input asp-for="editProduct.name" class="form-control" value="@Model.editProduct.name">
+                <span asp-validation-for="editProduct.name" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="form-group">
+            <label asp-for="editProduct.price" class="control-label col-sm2"></label>
+            <div class="col-sm-6">
+                <input asp-for="editProduct.price" class="form-control" value="@Model.editProduct.price">
+                <span asp-validation-for="editProduct.price" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="col-sm-offset-2 col-sm-10">
+                <button class="btn btn btn-primary">Zatwierdź</button>
+            </div>
+        </div>
+    </form>
+</div>
